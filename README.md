@@ -1,4 +1,0 @@
-pinoycoin
-=========
-
-Pinoycoin
